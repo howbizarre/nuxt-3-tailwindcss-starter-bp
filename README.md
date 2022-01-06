@@ -22,8 +22,9 @@
 $ git clone https://github.com/howbizarre/nux-3-tailwindcss-starter-bp
 ```
 
-2. Инсталирайте пакетите / Install the required packages Влезте в новосъздалата се папка `/nux-3-tailwindcss-starter-bp` и стартирайте NPM, за да се добавят Node модулите и необходимите пакети.
+2. Инсталирайте пакетите / Install the required packages
 
+Влезте в новосъздалата се папка `/nux-3-tailwindcss-starter-bp` и стартирайте NPM, за да се добавят Node модулите и необходимите пакети.
 > Go to the newly created folder `/nux-3-tailwindcss-starter-bp` and add Node modules and required packages.
 
 ```bash
