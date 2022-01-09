@@ -6,9 +6,9 @@
 
 ## Demo
 
-Може да видите активен вариант на темплейта на адрес [https://nuxt-3-tailwindcss.herokuapp.com/]
+Може да видите активен вариант на темплейта на адрес https://nuxt-3-tailwindcss.herokuapp.com/
 
-> You can see the active version of the template at [https://nuxt-3-tailwindcss.herokuapp.com/]
+> You can see the active version of the template at https://nuxt-3-tailwindcss.herokuapp.com/
 
 ## Изисквания / Requirements
 
