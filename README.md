@@ -4,6 +4,12 @@
 
 > Initial template for using Nuxt 3 with Tailwindcss. Bonus: [daisyUI](https://daisyui.com/). The template uses `/pages` and the built-in Vue Router in Nuxt. App.vue has been removed.
 
+## Demo
+
+Може да видите активен вариант на темплейта на адрес [https://nuxt-3-tailwindcss.herokuapp.com/]
+
+> You can see the active version of the template at [https://nuxt-3-tailwindcss.herokuapp.com/]
+
 ## Изисквания / Requirements
 
 Трябва да имате наличен [Node.js](https://nodejs.org/en/) версия _16.13.1_ или по-късна, както и NPM версия 8.1.4 или по-късна.
@@ -25,6 +31,7 @@ $ git clone https://github.com/howbizarre/nux-3-tailwindcss-starter-bp
 2. Инсталирайте пакетите / Install the required packages
 
 Влезте в новосъздалата се папка `/nux-3-tailwindcss-starter-bp` и стартирайте NPM, за да се добавят Node модулите и необходимите пакети.
+
 > Go to the newly created folder `/nux-3-tailwindcss-starter-bp` and add Node modules and required packages.
 
 ```bash
