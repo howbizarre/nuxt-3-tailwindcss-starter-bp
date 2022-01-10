@@ -4,7 +4,7 @@
 
 <details>
     <summary>In Eglish</summary>
-    <p>Initial template for using Nuxt 3 with Tailwindcss. Bonus: [daisyUI](https://daisyui.com/). The template uses `/pages` and the built-in Vue Router in Nuxt. App.vue has been removed.</p>
+    <p>Initial template for using Nuxt 3 with Tailwindcss. Bonus: [**daisyUI**](https://daisyui.com/). The template uses `/pages` and the built-in Vue Router in Nuxt. App.vue has been removed.</p>
 </details>
 
 ## Demo
