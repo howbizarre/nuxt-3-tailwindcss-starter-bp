@@ -7,6 +7,16 @@
     Initial template for using Nuxt 3 with Tailwindcss. Bonus: [**daisyUI**](https://daisyui.com/). The template uses `/pages` and the built-in Vue Router in Nuxt. App.vue has been removed.
 </details>
 
+::code-group
+
+```bash [Yarn]
+yarn install
+```
+
+```bash [NPM]
+npm install
+```
+
 ## Demo
 
 Може да видите активен вариант на темплейта на адрес https://nuxt-3-tailwindcss.herokuapp.com/
