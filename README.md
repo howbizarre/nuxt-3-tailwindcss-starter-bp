@@ -17,6 +17,8 @@ yarn install
 npm install
 ```
 
+::
+
 ## Demo
 
 Може да видите активен вариант на темплейта на адрес https://nuxt-3-tailwindcss.herokuapp.com/
